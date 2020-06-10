@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 ljasdldkjflksjd
+=======
+bleblebleble
+<<<<<<< HEAD
+heheheheheh
+smo na masterju
+=======
+zdej smo pa na hotfixu
+>>>>>>> hotfix
+
+>>>>>>> cbffb9d9d16a2b4d9cade55a07f1ea6f7e58e363
