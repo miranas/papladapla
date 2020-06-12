@@ -8,5 +8,5 @@ smo na masterju
 =======
 zdej smo pa na hotfixu
 >>>>>>> hotfix
-
+zdej pa smo klonirali cel direktorij papladapla in bomo iz tega clona naredili en komit
 >>>>>>> cbffb9d9d16a2b4d9cade55a07f1ea6f7e58e363
