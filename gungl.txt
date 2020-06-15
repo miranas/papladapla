@@ -1,3 +1,4 @@
+
 <<<<<<< HEAD
 ljasdldkjflksjd
 =======
@@ -10,4 +11,10 @@ zdej smo pa na hotfixu
 >>>>>>> hotfix
 zdej pa smo klonirali cel direktorij papladapla in bomo iz tega clona naredili en komit
 še en komit s klona 
+
+
+####################################################333
+tole pa pišemo na Okeanosu.
+To je prvi poskus povezave Okeanosa in github-a
+
 >>>>>>> cbffb9d9d16a2b4d9cade55a07f1ea6f7e58e363
