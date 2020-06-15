@@ -8,5 +8,5 @@ smo na masterju
 =======
 zdej smo pa na hotfixu
 >>>>>>> hotfix
-
+zdej smo pa spet na hotfixu dne 15.6.2020
 >>>>>>> cbffb9d9d16a2b4d9cade55a07f1ea6f7e58e363
